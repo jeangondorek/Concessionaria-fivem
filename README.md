@@ -6,3 +6,5 @@ Nui toda editada todos imagens de veículos irão aparecer. Caso não aparece vo
 Ajustar veículos na base de dados para aparecerem na concessionária.
 
 Necessário ter configurado no servidor assim como ter o porta-malas configurado.
+
+Todas as imagens funcionais.
